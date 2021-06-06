@@ -1,25 +1,20 @@
 {
-	"name": "yourname/flarum-lang-xxish",
+	"name": "zolii/hun_flarum",
 	"type": "flarum-extension",
-	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/yourname/flarum-lang-xxish",
+	"description": "Hungarian language pack for Flarum.",
+	"homepage": "https://github.com/zoliidev/hun_flarum",
 	"keywords": [
 		"locale",
 		"flarum",
-		"xx-locale"
+		"hu-locale"
 	],
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Your Name",
-			"email": "your@email.net",
-			"homepage": "https://yourhomepage.com/"
+			"name": "Zolii",
+			"homepage": "https://hugaming.hu/"
 		}
 	],
-	"support": {
-		"issues": "https://github.com/yourname/flarum-lang-xxish/issues",
-		"source": "https://github.com/yourname/flarum-lang-xxish"
-	},
 	"require": {
 		"flarum/core": "^1.0"
 	},
@@ -27,7 +22,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Xxish",
+			"title": "Magyar fordítás",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
@@ -35,8 +30,8 @@
 			}
 		},
 		"flarum-locale": {
-			"code": "xx",
-			"title": "Xxish"
+			"code": "hu",
+			"title": "Magyar"
 		},
 		"flagrow": {
 			"discuss": ""
