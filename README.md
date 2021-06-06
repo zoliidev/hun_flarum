@@ -1,3 +1,29 @@
+Magyar:
+## Telepítés
+Ezt a csomagot a [Composer](https://getcomposer.org/) nevű programmal tudod telepíteni.
+
+```console
+composer require zolii/hun_flarum
+```
+
+Miután letöltötted engedélyezd az admin panelben. A Basics menüpontban állításd át alapértlemezettnek a nyelvcsomagot.
+
+## Frissítés
+
+Szintén [Composer](https://getcomposer.org/) programmal.
+
+```console
+composer update zolii/hun_flarum
+```
+
+Gyorsító tár törlése (ajánlott!):
+
+```console
+php flarum cache:clear
+```
+
+
+English:
 ## Installation
 
 You can install language pack using [Composer](https://getcomposer.org/):
@@ -22,11 +48,3 @@ Then clear the cache:
 ```console
 php flarum cache:clear
 ```
-
-
-## Translation status for Flarum core
-
-| Component | Status |
-| --- | --- |
-| [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/xx/) |
-| Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/xx/) |
