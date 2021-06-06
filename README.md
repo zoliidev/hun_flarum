@@ -4,10 +4,11 @@ https://github.com/manaszon/flarum-ext-hungarian
 
 ## Változások az eredetihez képest:
 
-- Composer.json:
- - Verzió szám átírva, így lehet telepíteni.
+Composer.json:
+ Verzió szám átírva, így lehet telepíteni.
 
-- config.yml
+config.js:
+ A dátum, idő kiírás megjavítva.
 
 ## Telepítés
 Ezt a csomagot a [Composer](https://getcomposer.org/) nevű programmal tudod telepíteni.
