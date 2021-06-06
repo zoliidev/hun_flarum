@@ -30,21 +30,3 @@ php flarum cache:clear
 | --- | --- |
 | [Core](https://github.com/flarum/core) | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/core/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/core/xx/) |
 | Validation | [![Translation status](https://weblate.rob006.net/widgets/flarum/xx/validation/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/validation/xx/) |
-
-
-## Translation status for official extensions
-
-<!-- flarum-extensions-list-start -->
-<!-- flarum-extensions-list-stop -->
-
-
-## Translation status for Friends of Flarum extensions
-
-<!-- fof-extensions-list-start -->
-<!-- fof-extensions-list-stop -->
-
-
-## Translation status for community extensions
-
-<!-- various-extensions-list-start -->
-<!-- various-extensions-list-stop -->
