@@ -1,0 +1,6 @@
+flarum-ext-pwgen:
+  forum:
+    generatebtn: Biztonságos jelszó generálása
+  admin:
+    passlenght: Jelszó hossza
+    pwhelp: Írd be, milyen hosszú jelszót szeretnél generáltatni
