@@ -1,5 +1,3 @@
-##Magyar:
-
 ## Telepítés
 Ezt a csomagot a [Composer](https://getcomposer.org/) nevű programmal tudod telepíteni.
 
@@ -23,10 +21,6 @@ Gyorsító tár törlése (ajánlott!):
 php flarum cache:clear
 ```
 
-
-
-
-##English:
 
 ## Installation
 
