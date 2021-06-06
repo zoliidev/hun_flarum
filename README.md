@@ -3,7 +3,7 @@
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require yourname/flarum-lang-xxish
+composer require zolii/hun_flarum
 ```
 
 Then enable extension in admin panel of your Flarum.
@@ -14,7 +14,7 @@ Then enable extension in admin panel of your Flarum.
 You can update language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer update yourname/flarum-lang-xxish
+composer update zolii/hun_flarum
 ```
 
 Then clear the cache:
