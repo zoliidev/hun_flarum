@@ -1,4 +1,5 @@
-Magyar:
+##Magyar:
+
 ## Telepítés
 Ezt a csomagot a [Composer](https://getcomposer.org/) nevű programmal tudod telepíteni.
 
@@ -23,7 +24,10 @@ php flarum cache:clear
 ```
 
 
-English:
+
+
+##English:
+
 ## Installation
 
 You can install language pack using [Composer](https://getcomposer.org/):
